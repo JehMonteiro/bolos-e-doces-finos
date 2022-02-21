@@ -1,6 +1,7 @@
-🚧 EM CONSTRUÇÃO 🚧
+# Page de venda de Bolos e Doces finos 🍰🧁
+(Idealizado e feito totalmente por mim, da seleção das imagens até sua funcionalidade)
 
-Page de venda de Bolos e Doces finos 
+🚧 EM CONSTRUÇÃO 🚧
 
 Tecnologias que serão utilizadas:
 => HTML
